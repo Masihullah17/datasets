@@ -1,7 +1,7 @@
 # datasets
 Datasets
 
-Cat Vs Dog
-Fruits
-Monkey Breed
-Simpsons Characters
+Cat Vs Dog, 
+Fruits, 
+Monkey Breed, 
+Simpsons Characters.
